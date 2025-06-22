@@ -67,7 +67,7 @@ npm install
 npm run dev
 ```
 
-The app will be running at \`http://localhost:5173/\`.
+The app will be running at `http://localhost:5173/`.
 
 ---
 
@@ -77,7 +77,7 @@ The app will be running at \`http://localhost:5173/\`.
 npm run build
 ```
 
-Output will be generated in the \`dist/\` directory.
+Output will be generated in the `dist/` directory.
 
 To preview locally:
 
@@ -91,9 +91,9 @@ npm run preview
 
 This project works seamlessly on platforms like **Vercel**, **Netlify**, or **GitHub Pages**. For Vercel:
 
-* Framework preset: \`Vite\`
-* Build command: \`npm run build\`
-* Output directory: \`dist\`
+* Framework preset: `Vite`
+* Build command: `npm run build`
+* Output directory: `dist`
 
 ---
 
