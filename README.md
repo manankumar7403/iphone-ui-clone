@@ -14,7 +14,7 @@ A modern, responsive iPhone-themed landing page built with **React**, **Vite**, 
 - Responsive and mobile-friendly
 - Reusable and organized codebase
 
----
+
 
 ## Tech Stack
 
@@ -26,7 +26,7 @@ A modern, responsive iPhone-themed landing page built with **React**, **Vite**, 
 | GSAP        | JavaScript animation platform         |
 | Three.js    | 3D rendering engine                   |
 
----
+
 
 ## Project Structure
 
@@ -40,7 +40,7 @@ src/
 ├── index.css          # Tailwind imports & global styles
 ```
 
----
+
 
 ## Installation
 
@@ -59,7 +59,7 @@ cd iphone-ui-clone
 npm install
 ```
 
----
+
 
 ## Development
 
@@ -69,7 +69,7 @@ npm run dev
 
 The app will be running at `http://localhost:5173/`.
 
----
+
 
 ## Build for Production
 
@@ -85,7 +85,7 @@ To preview locally:
 npm run preview
 ```
 
----
+
 
 ## Deployment
 
@@ -95,7 +95,7 @@ This project works seamlessly on platforms like **Vercel**, **Netlify**, or **Gi
 * Build command: `npm run build`
 * Output directory: `dist`
 
----
+
 
 ## Screenshots
 ### Home page
@@ -104,7 +104,7 @@ This project works seamlessly on platforms like **Vercel**, **Netlify**, or **Gi
 ### Highlights
 ![Model Screenshot](/public/screenshots/ss2.png)
 
----
+
 
 ## Acknowledgments
 
@@ -113,7 +113,7 @@ This project works seamlessly on platforms like **Vercel**, **Netlify**, or **Gi
 * [Vite](https://vitejs.dev/)
 * [Tailwind CSS](https://tailwindcss.com/)
 
----
+
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
