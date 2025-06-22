@@ -30,7 +30,7 @@ A modern, responsive iPhone-themed landing page built with **React**, **Vite**, 
 
 ## Project Structure
 
-\`\`\`
+```
 src/
 ├── components/        # All UI components (Hero, Footer, etc.)
 ├── constants/         # Reusable constants
@@ -38,13 +38,13 @@ src/
 ├── App.jsx            # Main app component
 ├── main.jsx           # Entry point
 ├── index.css          # Tailwind imports & global styles
-\`\`\`
+```
 
 ---
 
 ## Installation
 
-\`\`\`bash
+```bash
 # Clone the repo
 git clone https://github.com/manankumar7403/iphone-ui-clone.git
 
@@ -53,15 +53,15 @@ cd iphone-ui-clone
 
 # Install dependencies
 npm install
-\`\`\`
+```
 
 ---
 
 ## Development
 
-\`\`\`bash
+```bash
 npm run dev
-\`\`\`
+```
 
 The app will be running at \`http://localhost:5173/\`.
 
@@ -69,17 +69,17 @@ The app will be running at \`http://localhost:5173/\`.
 
 ## Build for Production
 
-\`\`\`bash
+```bash
 npm run build
-\`\`\`
+```
 
 Output will be generated in the \`dist/\` directory.
 
 To preview locally:
 
-\`\`\`bash
+```bash
 npm run preview
-\`\`\`
+```
 
 ---
 
@@ -99,12 +99,6 @@ This project works seamlessly on platforms like **Vercel**, **Netlify**, or **Gi
 
 ### Highlights
 ![Model Screenshot](/public/screenshots/ss2.png)
-
----
-
-## Live Demo
-
-[Live Demo](https://your-deployment-url.com)
 
 ---
 
