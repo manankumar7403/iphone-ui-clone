@@ -47,10 +47,14 @@ src/
 ```bash
 # Clone the repo
 git clone https://github.com/manankumar7403/iphone-ui-clone.git
+```
 
+```bash
 # Navigate to the project
 cd iphone-ui-clone
+```
 
+```bash
 # Install dependencies
 npm install
 ```
